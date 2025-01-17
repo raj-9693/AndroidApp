@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "411302525139",
+    "firebase_url": "https://pradctionapp-default-rtdb.firebaseio.com",
+    "project_id": "pradctionapp",
+    "storage_bucket": "pradctionapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411302525139:android:1a2fe90ac97b13e363bc26",
+        "android_client_info": {
+          "package_name": "com.example.proteamfantasy11rj.pradctionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZvfW-Ude9KdlQFzSys1cJAqgU551j8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
